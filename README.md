@@ -2,7 +2,7 @@
 
 This repository contains a simple demonstration of using gRPC in Python.
 
-![Alt Text](/grpc-workflow.png)
+![Alt Text](images/grpc.png)
 
 ## Prerequisites
 
